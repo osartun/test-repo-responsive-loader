@@ -1,0 +1,12 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "Testing responsive-loader",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jimp": "^0.2.28",
+    "responsive-loader": "^1.1.0",
+    "webpack": "^3.10.0"
+  }
+}
